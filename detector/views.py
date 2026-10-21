@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 
 from .forms import MessageForm
 
-dataset = pd.read_csv('/Users/ayushbansal/Downloads/emails.csv')
+dataset = pd.read_csv('emails.csv')
 
 vectorizer = CountVectorizer()
 X = vectorizer.fit_transform(dataset['text'])
