@@ -109,3 +109,14 @@ Ayush Bansal
 ## License
 
 This project was developed for educational and college lab purposes.
+
+## Live Demo
+
+Try the deployed application here:
+
+**[Spam Detector — Live Website](https://spam-detector-3le4.onrender.com)**
+
+## Features
+- Email/message spam detection
+- Machine learning-based classification
+- Django web interface
